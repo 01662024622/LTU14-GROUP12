@@ -16,3 +16,9 @@ Kỹ thuật code cần tham khảo và áp dụng trong quá trình triển kha
 
 -	Design Pattern
 -	SOID code
+
+Phân công
+Vũ Văn Hiển: giao diện
+Vũ Đức Mạnh: Socket Client
+Phạm Minh Đức: Hỗ trợ phân tích API
+Vũ Minh Thắng: Hỗ trợ các mảng + Sokect Server
